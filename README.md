@@ -40,6 +40,14 @@ git clone https://github.com/abdalahsalah/PasswordGenerator.git
 - Add a strength meter to evaluate password security.
 - Provide an option to store passwords securely.
 
+## Screen Recording
+To see the password generator in action, watch the demo video:
+
+
+https://github.com/user-attachments/assets/c544f14d-ade9-45db-9e98-9966c73df1f5
+
+
+
 ## License
 This project is open-source and available under the MIT License.
 
